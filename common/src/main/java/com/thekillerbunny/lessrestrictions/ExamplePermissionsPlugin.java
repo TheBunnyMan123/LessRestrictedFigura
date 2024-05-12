@@ -1,4 +1,4 @@
-package org.figuramc.exampleplugin;
+package com.thekillerbunny.lessrestrictions;
 
 import org.figuramc.figura.entries.FiguraPermissions;
 import org.figuramc.figura.entries.annotations.FiguraPermissionsPlugin;

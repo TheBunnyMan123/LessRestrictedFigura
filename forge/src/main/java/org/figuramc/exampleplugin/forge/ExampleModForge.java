@@ -1,7 +1,7 @@
-package org.figuramc.exampleplugin.forge;
+package com.thekillerbunny.lessrestrictions.forge;
 
 import net.minecraftforge.fml.common.Mod;
-import org.figuramc.exampleplugin.ExamplePlugin;
+import com.thekillerbunny.lessrestrictions.ExamplePlugin;
 
 /**
  * A mod class is needed for Forge to load the Plugin

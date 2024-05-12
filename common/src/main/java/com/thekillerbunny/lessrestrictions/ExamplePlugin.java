@@ -1,6 +1,6 @@
-package org.figuramc.exampleplugin;
+package com.thekillerbunny.lessrestrictions;
 
-import org.figuramc.exampleplugin.screens.ExampleScreen;
+import com.thekillerbunny.lessrestrictions.screens.ExampleScreen;
 import org.figuramc.figura.avatar.Avatar;
 import org.figuramc.figura.entries.FiguraAPI;
 import org.figuramc.figura.entries.annotations.FiguraAPIPlugin;
@@ -22,7 +22,7 @@ import java.util.List;
 @FiguraAPIPlugin
 @LuaWhitelist
 public class ExamplePlugin implements FiguraAPI {
-    public static final String PLUGIN_ID = "examplefiguraplugin";
+    public static final String PLUGIN_ID = "lessrestrictedfigura";
     public static final Logger LOGGER = LoggerFactory.getLogger(PLUGIN_ID);
     private Avatar avatar;
 

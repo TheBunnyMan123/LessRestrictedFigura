@@ -1,7 +1,7 @@
-package org.figuramc.exampleplugin;
+package com.thekillerbunny.lessrestrictions;
 
 import net.minecraft.client.gui.screens.Screen;
-import org.figuramc.exampleplugin.screens.ExampleScreen;
+import com.thekillerbunny.lessrestrictions.screens.ExampleScreen;
 import org.figuramc.figura.entries.FiguraScreen;
 import org.figuramc.figura.entries.annotations.FiguraScreenPlugin;
 import org.figuramc.figura.gui.widgets.PanelSelectorWidget;

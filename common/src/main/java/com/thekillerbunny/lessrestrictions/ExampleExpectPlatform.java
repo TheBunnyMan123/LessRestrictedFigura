@@ -1,4 +1,4 @@
-package org.figuramc.exampleplugin;
+package com.thekillerbunny.lessrestrictions;
 
 import dev.architectury.injectables.annotations.ExpectPlatform;
 

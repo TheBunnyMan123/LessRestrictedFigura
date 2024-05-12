@@ -1,6 +1,6 @@
-package org.figuramc.exampleplugin.forge;
+package com.thekillerbunny.lessrestrictions.forge;
 
-import org.figuramc.exampleplugin.ExampleExpectPlatform;
+import com.thekillerbunny.lessrestrictions.ExampleExpectPlatform;
 import net.minecraftforge.fml.loading.FMLPaths;
 
 import java.nio.file.Path;

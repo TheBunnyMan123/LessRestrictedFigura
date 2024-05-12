@@ -16,22 +16,22 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "org.figuramc.exampleplugin.fabric.ExamplePluginFabric"
+      "com.thekillerbunny.lessrestrictions.fabric.ExamplePluginFabric"
     ],
     "figura_api": [
-      "org.figuramc.exampleplugin.ExamplePlugin"
+      "com.thekillerbunny.lessrestrictions.ExamplePlugin"
     ],
     "figura_permissions": [
-      "org.figuramc.exampleplugin.ExamplePermissionsPlugin"
+      "com.thekillerbunny.lessrestrictions.ExamplePermissionsPlugin"
     ],
     "figura_screen": [
-      "org.figuramc.exampleplugin.ExampleScreensPlugin"
+      "com.thekillerbunny.lessrestrictions.ExampleScreensPlugin"
     ],
     "figura_vanilla_part": [
-      "org.figuramc.exampleplugin.ExampleVanillaPartPlugin"
+      "com.thekillerbunny.lessrestrictions.ExampleVanillaPartPlugin"
     ],
     "figura_example": [
-      "org.figuramc.exampleplugin.ExampleEventPlugin"
+      "com.thekillerbunny.lessrestrictions.ExampleEventPlugin"
     ]
   },
   "depends": {

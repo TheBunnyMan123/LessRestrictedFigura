@@ -1,4 +1,4 @@
-package org.figuramc.exampleplugin;
+package com.thekillerbunny.lessrestrictions;
 
 import com.mojang.datafixers.util.Pair;
 import net.minecraft.client.model.EntityModel;

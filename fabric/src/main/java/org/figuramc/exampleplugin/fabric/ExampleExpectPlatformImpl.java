@@ -1,6 +1,6 @@
-package org.figuramc.exampleplugin.fabric;
+package com.thekillerbunny.lessrestrictions.fabric;
 
-import org.figuramc.exampleplugin.ExampleExpectPlatform;
+import com.thekillerbunny.lessrestrictions.ExampleExpectPlatform;
 import net.fabricmc.loader.api.FabricLoader;
 
 import java.nio.file.Path;

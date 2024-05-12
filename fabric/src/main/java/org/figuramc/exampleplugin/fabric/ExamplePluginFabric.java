@@ -1,7 +1,7 @@
-package org.figuramc.exampleplugin.fabric;
+package com.thekillerbunny.lessrestrictions.fabric;
 
 import net.fabricmc.api.ModInitializer;
-import org.figuramc.exampleplugin.ExamplePlugin;
+import com.thekillerbunny.lessrestrictions.ExamplePlugin;
 
 /**
  * A mod class is not technically needed for Fabric to load the Plugin, but it's still nice to have.
