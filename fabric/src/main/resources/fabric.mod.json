@@ -20,18 +20,6 @@
     ],
     "figura_api": [
       "com.thekillerbunny.lessrestrictions.LessRestrictedFigura"
-    ],
-    "figura_permissions": [
-      "com.thekillerbunny.lessrestrictions.ExamplePermissionsPlugin"
-    ],
-    "figura_screen": [
-      "com.thekillerbunny.lessrestrictions.ExampleScreensPlugin"
-    ],
-    "figura_vanilla_part": [
-      "com.thekillerbunny.lessrestrictions.ExampleVanillaPartPlugin"
-    ],
-    "figura_example": [
-      "com.thekillerbunny.lessrestrictions.ExampleEventPlugin"
     ]
   },
   "depends": {
