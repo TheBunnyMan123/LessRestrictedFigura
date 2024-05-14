@@ -1,0 +1,4 @@
+{
+  "examplefiguraplugin.permissions.value.example_permission": "Remove Sandbox",
+  "examplefiguraplugin.permissions.value.example_permission.tooltip": "This removes figura's sandbox that was put in place for a reason"
+}

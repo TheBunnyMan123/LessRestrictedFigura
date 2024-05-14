@@ -18,6 +18,9 @@
     "main": [
       "com.thekillerbunny.lessrestrictions.fabric.LessRestrictedFiguraFabric"
     ],
+    "figura_permissions": [
+      "com.thekillerbunny.lessrestrictions.fabric.LessRestrictedFiguraPermission"
+    ],
     "figura_api": [
       "com.thekillerbunny.lessrestrictions.LessRestrictedFigura"
     ]
