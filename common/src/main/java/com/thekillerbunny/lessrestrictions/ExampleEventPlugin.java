@@ -23,7 +23,7 @@ public class ExampleEventPlugin implements FiguraEvent {
     public static LuaEvent EXAMPLE = new LuaEvent();
     @Override
     public String getID() {
-        return ExamplePlugin.PLUGIN_ID;
+        return LessRestrictedFigura.PLUGIN_ID;
     }
 
     /**

@@ -16,10 +16,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.thekillerbunny.lessrestrictions.fabric.ExamplePluginFabric"
+      "com.thekillerbunny.lessrestrictions.fabric.LessRestrictedFiguraFabric"
     ],
     "figura_api": [
-      "com.thekillerbunny.lessrestrictions.ExamplePlugin"
+      "com.thekillerbunny.lessrestrictions.LessRestrictedFigura"
     ],
     "figura_permissions": [
       "com.thekillerbunny.lessrestrictions.ExamplePermissionsPlugin"

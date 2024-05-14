@@ -1,6 +1,5 @@
 package com.thekillerbunny.lessrestrictions;
 
-import com.thekillerbunny.lessrestrictions.screens.ExampleScreen;
 import org.figuramc.figura.avatar.Avatar;
 import org.figuramc.figura.entries.FiguraAPI;
 import org.figuramc.figura.entries.annotations.FiguraAPIPlugin;
@@ -21,14 +20,14 @@ import java.util.List;
  */
 @FiguraAPIPlugin
 @LuaWhitelist
-public class ExamplePlugin implements FiguraAPI {
+public class LessRestrictedFigura implements FiguraAPI {
     public static final String PLUGIN_ID = "lessrestrictedfigura";
     public static final Logger LOGGER = LoggerFactory.getLogger(PLUGIN_ID);
     private Avatar avatar;
 
-    public ExamplePlugin() {
+    public LessRestrictedFigura() {
     }
-    public ExamplePlugin(Avatar avatar) {
+    public LessRestrictedFigura(Avatar avatar) {
         this.avatar = avatar;
     }
 
@@ -41,7 +40,7 @@ public class ExamplePlugin implements FiguraAPI {
 
     @Override
     public FiguraAPI build(Avatar avatar) {
-        return new ExamplePlugin(avatar);
+        return new LessRestrictedFigura(avatar);
     }
 
     @Override
@@ -72,8 +71,7 @@ public class ExamplePlugin implements FiguraAPI {
     }
 
     public static final Class<?>[] EXAMPLE_PLUGIN_CLASSES = new Class[] {
-            ExamplePlugin.class,
-            ExampleScreen.class
+            LessRestrictedFigura.class,
     };
 
 }
