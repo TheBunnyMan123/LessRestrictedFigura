@@ -22,6 +22,9 @@
       "com.thekillerbunny.lessrestrictions.LessRestrictedFigura"
     ]
   },
+  "mixins": [
+    "lessrestrictedfigura-common.mixins.json"
+  ],
   "depends": {
     "fabric": "*",
     "minecraft": ">=1.20",

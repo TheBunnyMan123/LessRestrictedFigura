@@ -6,6 +6,7 @@
   "client": [
   ],
   "mixins": [
+    "FiguraLuaRuntimeMixin"
   ],
   "injectors": {
     "defaultRequire": 1
